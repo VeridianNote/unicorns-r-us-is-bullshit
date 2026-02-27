@@ -1,0 +1,9 @@
+node_modules/
+build/
+.docusaurus/
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+.claude
+CLAUDE.md
