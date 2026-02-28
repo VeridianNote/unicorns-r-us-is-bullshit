@@ -56,6 +56,16 @@ Because when the internet says "unicorn hunter," it could mean:
 
 These are not the same thing. The site treats them as if they are. And then the internet runs with it.
 
+This isn't a minor oversight. It's the foundation crack that the whole site is built on.
+
+The word "unicorn" started in 1970s swinger communities.[^1] In that world, a "unicorn" was a single bisexual woman willing to join a couple for casual, recreational sex. The expectations were openly sexual, openly temporary, and openly recreational. Nobody was pretending it was a love story. The term described rarity, not exploitation.
+
+That term migrated into polyamory forums in the late '90s and 2000s, and it brought its baggage with it -- but not its context. In poly spaces, "unicorn" picked up ethical weight it was never designed to carry. Now the same word covers a one-night swinger hookup, a committed three-person romantic partnership, and everything in between. And people argue about the ethics as if those are the same situation.
+
+They're not. A swinging couple looking for a casual third for a Saturday night has completely different intentions, expectations, and risks than a couple looking to build a life with someone. Lumping them together doesn't protect anyone. It just makes it impossible to talk about either one clearly. And Unicorns-R-Us, for all its thousands of words, never once makes this distinction. It treats "couple seeking a third" as one monolithic thing and then critiques the worst version as if it represents all of them.
+
+If you're going to build a guide about the ethics of seeking a partner, the very first thing you need to do is acknowledge that "seeking a partner" means wildly different things depending on who's doing it and what they actually want. The site skips that step entirely. And that's not a small gap. That's the gap that lets every couple get judged by the worst examples.
+
 ### "Never date together" is presented as moral law
 
 The site's practical conclusion is clear: don't date as a couple. Date separately. Let things form organically. Don't require someone to be with both of you.
@@ -189,6 +199,12 @@ Not "did you date separately first?"
 
 Those are structural questions. They tell you about the shape of the relationship. They tell you nothing about whether anyone inside it is being treated like a human being.
 
+Consent is necessary, but it's not sufficient. A person can technically "agree" to something and still be in a situation that's unfair, one-sided, or quietly corrosive. What separates a healthy agreement from a controlling one isn't whether someone said yes. It's whether they had real power to shape the terms, real freedom to say no, and real standing to renegotiate when something stops working.
+
+Quick example: *"We'd like a closed triad eventually, but that's something all three of us decide together when we're ready"* is an agreement. *"You can't date anyone else, but we haven't committed to anything long-term with you yet"* is a cage with a polite sign on it. Same structure. Completely different ethics.
+
+A practical guide to recognizing the difference -- what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads -- is in the works. [Coming soon]
+
 ### "Unicorns" are people, not pedestals
 
 There's an irony baked into the protective framing that sites like Unicorns-R-Us promote: by treating the person who dates a couple as a fragile, easily-exploited creature who needs to be warned and shielded, it puts them on a pedestal. And a pedestal is just another kind of box.
@@ -218,13 +234,19 @@ Take "unicorn." The term originated in 1970s swinger communities as a way to des
 
 - **Self-identification.** Many bisexual women happily call themselves unicorns. For some, it's a way of reclaiming a label and celebrating a part of their sexuality they were once made to feel ashamed of.[^3] For others, it's just practical shorthand on dating apps.
 - **Community shorthand for a harmful dynamic.** In mainstream poly spaces, calling someone a "unicorn" is often a way of saying they're being treated as a role, not a person. It implies the couple is objectifying them, even if that's not what's happening.[^4]
-- **Dismissal and weaponization.** "Unicorn hunter" is even more loaded. It started as a label for predatory behavior. Now its applied to virtually any couple who expresses interest in dating together, regardless of intent or conduct. The label carries an assumption of guilt. Once it's applied, the conversation is usually over. You're not a couple exploring something new. You're a predator. That shift from "naming a behavior" to "convicting a structure" is one of the biggest problems in this entire discourse.[^5],[^6]
+- **Dismissal and weaponization.** "Unicorn hunter" is even more loaded. It started as a label for predatory behavior. Now it's applied to virtually any couple who expresses interest in dating together, regardless of intent or conduct. The label carries an assumption of guilt. Once it's applied, the conversation is usually over. You're not a couple exploring something new. You're a predator. That shift from "naming a behavior" to "convicting a structure" is one of the biggest problems in this entire discourse.[^5],[^6]
+
+There's one more problem with how the term gets used, and it's one the original site never addresses: the entire "unicorn" framework is built around one specific gender scenario.
+
+Unicorns-R-Us assumes, from start to finish, that the dynamic involves a heterosexual couple -- man and woman -- seeking a bisexual woman. That's the only scenario it considers. It doesn't address same-sex couples looking for a partner. It doesn't address couples seeking a bisexual man (sometimes called a "dragon" in swinger and ENM spaces, though the term is newer and far less established[^7]). It doesn't address non-binary people in any role. It doesn't address the basic reality that "the person joining a couple" can be anyone of any gender with any orientation.
+
+This matters because it exposes the site's actual scope: it's not a universal guide to multi-person relationship ethics. It's a guide to one specific gendered configuration, presented as if it covers everything. The ethical concerns it raises -- autonomy, consent, power dynamics, disposable treatment -- are genuinely gender-neutral. They apply to any situation where one person is joining an established pair. But the site's framing isn't gender-neutral at all. And when that narrow lens gets applied to every couple seeking a partner, regardless of who they are or who they're looking for, it warps the conversation even further.
 
 "Third" implies hierarchy even when none is intended. It positions someone as an addition to something that already exists rather than an equal participant in something new.
 
 "Throuple" is pop-culture shorthand that some people find warm and casual, while others see it as imprecise and not quite serious enough for what is often a deeply committed relationship. It's not in most spell-checkers.
 
-"Polyfidelity" is probably the most technically accurate term for a closed multi-partner relationship, and it's recognized in academic literature.[^7] But it covers everything from closed triads to closed groups of five or more, so it doesn't always capture the specific dynamics people are dealing with.
+"Polyfidelity" is probably the most technically accurate term for a closed multi-partner relationship, and it's recognized in academic literature.[^8] But it covers everything from closed triads to closed groups of five or more, so it doesn't always capture the specific dynamics people are dealing with.
 
 "Triad" is probably the most neutral and widely understood term for a three-person relationship. It doesn't carry the casual imprecision of "throuple" or the academic weight of "polyfidelity." It simply describes the shape. If the goal is to make seeking a triad a safe and respected experience for everyone involved, and to separate that from the harmful patterns that deserve criticism, then using clear, neutral language like "triad" is a good place to start.
 
@@ -239,11 +261,11 @@ The language will catch up eventually. For now, precision beats confusion.
 
 The internet debate about triads runs almost entirely on anecdotes and strong opinions. That's worth noticing, because there IS actual research on this topic, and it doesn't support the doom-and-gloom framing.
 
-A meta-analysis covering 35 studies and roughly 24,000 people found that people in consensually non-monogamous relationships reported comparable levels of relationship satisfaction and sexual satisfaction to people in monogamous relationships.[^8] Not higher. Not lower. Comparable. The idea that non-monogamy is inherently less satisfying or less stable doesn't hold up when you look at aggregated data instead of cherry-picked horror stories .
+A meta-analysis covering 35 studies and roughly 24,000 people found that people in consensually non-monogamous relationships reported comparable levels of relationship satisfaction and sexual satisfaction to people in monogamous relationships.[^9] Not higher. Not lower. Comparable. The idea that non-monogamy is inherently less satisfying or less stable doesn't hold up when you look at aggregated data instead of cherry-picked horror stories.
 
 Polyfidelity (closed multi-partner relationships, including closed triads) is a recognized configuration in peer-reviewed literature. It's not a myth. It's not a contradiction in terms. It's a documented relationship structure that real people practice.
 
-And polyamory itself isn't as rare as the discourse implies. A national study of single adults in the U.S. found that about 10.7% had engaged in polyamory at some point.[^9] That's not a fringe phenomenon. 
+And polyamory itself isn't as rare as the discourse implies. A national study of single adults in the U.S. found that about 10.7% had engaged in polyamory at some point.[^10] That's not a fringe phenomenon. 
 
 None of this proves that every triad will work, or that closed triads are easy. They're not. But it does mean that anyone telling you this is "statistically nearly impossible" or "has never worked in recorded history" is selling rhetoric, not reporting facts.
 
@@ -306,9 +328,10 @@ End the bullshit.
 
 [^6]: The unicorns-r-us.com website is credited to David Noble (cited as "Noble D (2014)" in Johnston 2024) and has been circulating as a community resource since approximately 2014.
 
-[^7]: Polyfidelity as a closed multi-partner relationship structure is described in peer-reviewed literature. See: Haupert, M. L., Gesselman, A. N., Moors, A. C., Fisher, H. E., & Garcia, J. R. (2017). Prevalence of experiences with consensual nonmonogamous relationships: Findings from two national samples of single Americans. *Journal of Sex & Marital Therapy*, 43(5), 424-440; and Gupta, K., Mittal, S., & Moors, A. C. (2024). A scoping review of research on polyamory and consensual non-monogamy. *Journal of Family Theory & Review*, 16(1).
+[^7]: The term "dragon" refers to a bisexual or pansexual man open to joining an established couple, analogous to the female "unicorn." The term is used in both swinger and ENM/polyamorous communities but is far less established than "unicorn." See also the related distinction from "bull" (a heterosexual man in similar dynamics). Usage is primarily visible in online communities (Urban Dictionary, TikTok lifestyle creators, ENM forums) rather than academic literature.
 
-[^8]: Anderson, J. R., Hinton, J. D. X., Bondarchuk-McLaughlin, A., Rosa, S., Tan, K. J., & Moor, L. (2025). Countering the monogamy-superiority myth: A meta-analysis of the differences in relationship satisfaction and sexual satisfaction as a function of relationship orientation. *The Journal of Sex Research*. DOI: 10.1080/00224499.2025.2462988. Meta-analysis of 35 studies (N = 24,489).
+[^8]: Polyfidelity as a closed multi-partner relationship structure is described in peer-reviewed literature. See: Haupert, M. L., Gesselman, A. N., Moors, A. C., Fisher, H. E., & Garcia, J. R. (2017). Prevalence of experiences with consensual nonmonogamous relationships: Findings from two national samples of single Americans. *Journal of Sex & Marital Therapy*, 43(5), 424-440; and Gupta, K., Mittal, S., & Moors, A. C. (2024). A scoping review of research on polyamory and consensual non-monogamy. *Journal of Family Theory & Review*, 16(1).
 
-[^9]: Moors, A. C., Gesselman, A. N., & Garcia, J. R. (2021). Desire, familiarity, and engagement in polyamory: Results from a national sample of single adults in the United States. *Frontiers in Psychology*, 12, 619640. DOI: 10.3389/fpsyg.2021.619640. U.S. Census-based quota sample (N = 3,438).
+[^9]: Anderson, J. R., Hinton, J. D. X., Bondarchuk-McLaughlin, A., Rosa, S., Tan, K. J., & Moor, L. (2025). Countering the monogamy-superiority myth: A meta-analysis of the differences in relationship satisfaction and sexual satisfaction as a function of relationship orientation. *The Journal of Sex Research*. DOI: 10.1080/00224499.2025.2462988. Meta-analysis of 35 studies (N = 24,489).
 
+[^10]: Moors, A. C., Gesselman, A. N., & Garcia, J. R. (2021). Desire, familiarity, and engagement in polyamory: Results from a national sample of single adults in the United States. *Frontiers in Psychology*, 12, 619640. DOI: 10.3389/fpsyg.2021.619640. U.S. Census-based quota sample (N = 3,438).
