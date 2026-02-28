@@ -4,9 +4,14 @@
 
 ## 🚨 Wee woo wee woo 🚨
 
-Someone just questioned your relationship ethics in a Reddit thread. They used the phrase "but what about the new person's agency?" They sound very concerned. They are *not* asking because they want an answer.
+Are you the couple who got hit with "that's textbook unicorn hunting" for the crime of saying you'd like to date together? <br/>
+Maybe you're the person dating a couple and someone told you you're being exploited -- despite the fact that you're perfectly happy. <br/>
+Maybe you just asked a question about triads and got a lecture instead of an answer. <br/>
+Or maybe you're the one who asked those tough questions and someone thinks you need to see this too.
 
-Breathe. You're going to be fine. But you should probably read this first.
+Breathe. Nobody's getting arrested. But we do need to talk.<br/>
+Let's break it up and cut through the bullshit. <br/>
+This page is for both sides of this conversation.
 
 ---
 
