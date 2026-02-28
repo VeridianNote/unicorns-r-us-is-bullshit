@@ -210,7 +210,7 @@ Those are structural questions. They tell you about the shape of the relationshi
 
 Consent is necessary, but it's not sufficient. A person can technically "agree" to something and still be in a situation that's unfair, one-sided, or quietly corrosive. What separates a healthy agreement from a controlling one isn't whether someone said yes. It's whether they had real power to shape the terms, real freedom to say no, and real standing to renegotiate when something stops working.
 
-Quick example: *"We'd like a closed triad eventually, but that's something all three of us decide together when we're ready"* is an agreement. *"You can't date anyone else, but we haven't committed to anything long-term with you yet"* is a cage with a polite sign on it. Same structure. Completely different ethics.
+Quick example: "Any of us can say 'I need to slow down' and we'll talk about it without anyone being punished" is an agreement. "If you have a problem with how things are going, maybe this isn't for you" is a threat with a calm voice. Same conversation with completely different power dynamics.
 
 A practical guide to recognizing the difference -- what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads -- is in the works. [Coming soon]
 
