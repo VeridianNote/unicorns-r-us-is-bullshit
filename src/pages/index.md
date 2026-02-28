@@ -290,6 +290,10 @@ End the bullshit.
 
 *Have a story, correction, or perspective to share? [Contact info placeholder]*
 
+### Related Reading
+
+- [Why the Internet's Favorite Unicorn-Hunting Website Is Total Bullshit](https://velourialamour.substack.com/p/why-the-internets-favorite-unicorn-hunting-website-is-total-bullshit) — by Velouria Lamour. The article that inspired this site.
+
 [^1]: The term "unicorn" in this context traces to 1970s swinger communities, describing how rare it was to find a bisexual woman willing to join a couple. The term migrated into online polyamory forums in the late 1990s and 2000s. Exact origins are oral-tradition and community-based rather than formally documented. See also: Wikipedia, "Unicorn hunting"; Joreth (LiveJournal), "The History Of The Term Unicorn Hunter."
 
 [^2]: "Hot bi babe" (HBB) appears in early polyamory forums and mailing lists (circa early 2000s) as shorthand for the idealized partner sought by couples. The term was already understood as carrying objectifying connotations.
