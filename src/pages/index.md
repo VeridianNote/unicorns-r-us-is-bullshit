@@ -239,7 +239,7 @@ The question is never "what role are you in?" The question is "how are you treat
 
 Part of the reason these conversations go sideways so fast is that the words themselves are a mess. The same term means different things to different people in different spaces, and instead of recognizing that, people argue past each other while assuming everyone shares their definition.
 
-Take "unicorn." The term originated in 1970s swinger communities as a way to describe how rare it was to find a bisexual woman willing to join a couple.[^1] In older polyamorous forums, the equivalent phrase was "hot bi babe" or "HBB," which was already carrying some baggage.[^2] Today, "unicorn" lives in at least three different worlds at once:
+Take "unicorn". Its origins as swinger slang[^1] (and its older cousin 'hot bi babe'[^2]) are covered earlier -- but what matters here is that the same word now lives in at least three different worlds at once:
 
 - **Self-identification.** Many bisexual women happily call themselves unicorns. For some, it's a way of reclaiming a label and celebrating a part of their sexuality they were once made to feel ashamed of.[^3] For others, it's just practical shorthand on dating apps.
 - **Community shorthand for a harmful dynamic.** In mainstream poly spaces, calling someone a "unicorn" is often a way of saying they're being treated as a role, not a person. It implies the couple is objectifying them, even if that's not what's happening.[^4]
