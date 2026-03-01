@@ -6,11 +6,43 @@
   --ifm-color-primary-light: #d84444;
   --ifm-color-primary-lighter: #da4e4e;
   --ifm-color-primary-lightest: #e16e6e;
+  --ifm-navbar-background-color: #1a1a1a;
+  --ifm-footer-background-color: #1a1a1a;
 }
 
 .img-caption em {
   color: #888;
   font-size: 0.85rem;
+}
+
+/* Navbar link styling */
+.navbar__link {
+  margin-right: 0.5rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+  color: #e0e0e0 !important;
+}
+
+.navbar__link:hover {
+  color: var(--ifm-color-primary) !important;
+}
+
+.navbar__link--active {
+  border: 1.5px solid var(--ifm-color-primary);
+  border-radius: 6px;
+  padding: 0.3rem 0.75rem !important;
+  text-decoration: none;
+  color: var(--ifm-color-primary) !important;
+}
+
+/* Bigger site title in navbar */
+.navbar__title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #ffffff !important;
 }
 
 blockquote {
@@ -36,4 +68,15 @@ blockquote p {
   --ifm-color-primary-light: #f1706d;
   --ifm-color-primary-lighter: #f27e7b;
   --ifm-color-primary-lightest: #f6a4a2;
+  --ifm-navbar-background-color: #111111;
+  --ifm-footer-background-color: #111111;
+}
+
+/* Force slate background on footer (overrides footer--dark defaults) */
+.footer--dark {
+  --ifm-footer-background-color: #1a1a1a;
+}
+
+[data-theme='dark'] .footer--dark {
+  --ifm-footer-background-color: #111111;
 }

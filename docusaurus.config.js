@@ -41,7 +41,19 @@ const config = {
       },
       navbar: {
         title: 'Unicorns R Us Is Bullshit',
-        items: [],
+        items: [
+          {
+            to: '/',
+            label: '🦄 Home',
+            position: 'left',
+            activeBaseRegex: '^/$',
+          },
+          {
+            to: '/poly-police',
+            label: '🚨 Poly Police',
+            position: 'left',
+          },
+        ],
       },
       footer: {
         style: 'dark',
