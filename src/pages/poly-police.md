@@ -9,7 +9,8 @@ Maybe you're the person dating a couple and someone told you you're being exploi
 Maybe you just asked a question about triads and got a lecture instead of an answer. <br/>
 Or maybe you're the one who asked those tough questions and someone thinks you need to see this too.
 
-Breathe. Nobody's getting arrested. But we do need to talk.<br/>
+Breathe. Nobody's getting arrested.<br/> 
+But we do need to talk.<br/>
 Let's break it up and cut through the bullshit. <br/>
 This page is for both sides of this conversation.
 
