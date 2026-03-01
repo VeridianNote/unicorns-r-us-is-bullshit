@@ -52,7 +52,8 @@ Let's be specific, because this pattern is consistent enough to map.
 
 **The audience is the real target.** They're not trying to change your mind. They're performing for everyone reading. The goal is to make your position look indefensible to bystanders so that the next person who thinks about posting something similar decides not to.
 
-If you've been through this more than once, you already know: no answer is ever good enough. The questions don't stop when you give a satisfying response. They stop when you either concede their point, get frustrated enough to say something they can use against you, or give up and walk away. That's not curiosity. That's a prosecution with a predetermined outcome. That's bullshit. Let's take it apart.
+If you've been through this more than once, you already know: no answer is ever good enough. The questions don't stop when you give a satisfying response. They stop when you either concede their point, get frustrated enough to say something they can use against you, or give up and walk away. That's not curiosity. That's a prosecution with a predetermined outcome. <br/>
+That's bullshit. Let's take it apart.
 
 ---
 
