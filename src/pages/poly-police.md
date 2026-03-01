@@ -227,6 +227,6 @@ Know the difference. Respond accordingly.
 
 ---
 
-*This page is part of [unicorns-r-us-is-bullshit.com](https://unicorns-r-us-is-bullshit.com). Read the main page: [Why the Internet's Favorite "Unicorn Hunter" Website Is Bullshit](/).*
+*Read the main page: [Why the Internet's Favorite "Unicorn Hunter" Website Is Bullshit](/).*
 
-*Building resources for triads, couples, and the people who date them -- without the shame, without the sarcasm, and without the twenty-question gauntlet.*
+*Better conversations start here. Or at least, less shitty ones.*
