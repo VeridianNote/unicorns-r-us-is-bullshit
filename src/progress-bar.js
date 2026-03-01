@@ -121,7 +121,7 @@ function createMobileTOC() {
   details.className = 'mobile-toc mobile-toc-auto';
 
   const summary = document.createElement('summary');
-  summary.textContent = 'Table of Contents';
+  summary.textContent = 'On this page';
   details.appendChild(summary);
   details.appendChild(ul);
 
