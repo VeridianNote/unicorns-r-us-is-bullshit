@@ -1,3 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Clear navbar + collapsed TOC when scrolling to anchors */
+h1[id], h2[id], h3[id], h4[id] {
+  scroll-margin-top: calc(var(--ifm-navbar-height, 60px) + 3rem);
+}
+
 :root {
   --ifm-color-primary: #d32f2f;
   --ifm-color-primary-dark: #be2a2a;
