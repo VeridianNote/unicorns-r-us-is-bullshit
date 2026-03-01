@@ -1,23 +1,8 @@
+---
+title: Unicorns R Us Is Bullshit
+---
+
 # Why the Internet's Favorite "Unicorn Hunter" Website Is&nbsp;Bullshit
-
-<details className="mobile-toc">
-<summary>📖 Table of Contents</summary>
-
-- [Someone just linked you that site, didn't they?](#someone-just-linked-you-that-site-didnt-they)
-- [What that site actually gets wrong](#what-that-site-actually-gets-wrong)
-  - [It defines the problem in a way that traps everyone](#it-defines-the-problem-in-a-way-that-traps-everyone)
-  - ["Never date together" is presented as moral law](#never-date-together-is-presented-as-moral-law)
-  - [Having preferences isn't "building a box"](#having-preferences-isnt-building-a-box)
-  - [It "protects" people by assuming they can't think](#it-protects-people-by-assuming-they-cant-think)
-  - [And then there's the flowchart](#and-then-theres-the-flowchart)
-- [But here's what they're not entirely wrong about](#but-heres-what-theyre-not-entirely-wrong-about)
-- [What actually matters (and it's not the label)](#what-actually-matters-and-its-not-the-label)
-  - ["Unicorns" are people, not pedestals](#unicorns-are-people-not-pedestals)
-  - [The terminology is broken](#the-terminology-is-broken)
-  - [What the research actually says](#what-the-research-actually-says)
-- [So what do you do now?](#so-what-do-you-do-now)
-
-</details>
 
 ---
 
