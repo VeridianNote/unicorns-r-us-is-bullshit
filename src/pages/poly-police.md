@@ -1,5 +1,23 @@
 # The Poly Police Just Showed Up
 
+<details className="mobile-toc">
+<summary>📖 Table of Contents</summary>
+
+- [Sound familiar?](#sound-familiar)
+- [What this actually looks like](#what-this-actually-looks-like)
+- [Why it works (and why it's so frustrating)](#why-it-works-and-why-its-so-frustrating)
+- [The questions are real. The game is the problem.](#the-questions-are-real-the-game-is-the-problem)
+  - ["Does the existing couple have more power?"](#does-the-existing-couple-have-more-power)
+  - ["Can the new person date just one of you?"](#can-the-new-person-date-just-one-of-you)
+  - ["What happens if one connection is stronger?"](#what-happens-if-one-connection-is-stronger)
+  - ["What if someone wants to leave?"](#what-if-someone-wants-to-leave)
+  - ["Isn't wanting a closed triad just about control?"](#isnt-wanting-a-closed-triad-just-about-control)
+- [How to tell the difference (for both sides)](#how-to-tell-the-difference-for-both-sides)
+- [A note for the exhausted regulars](#a-note-for-the-exhausted-regulars)
+- [The bottom line](#the-bottom-line)
+
+</details>
+
 ---
 
 ## 🚨 Wee woo wee woo 🚨

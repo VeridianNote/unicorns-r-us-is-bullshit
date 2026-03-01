@@ -11,5 +11,5 @@ if %errorlevel% neq 0 (
 echo.
 echo Build successful! Output is in the build\ folder.
 echo.
-call npm run serve
+call npm run serve -- --port 3001
 pause

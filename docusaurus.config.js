@@ -18,6 +18,8 @@ const config = {
     locales: ['en'],
   },
 
+  clientModules: ['./src/progress-bar.js'],
+
   presets: [
     [
       'classic',

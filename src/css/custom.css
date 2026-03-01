@@ -38,6 +38,11 @@
   color: var(--ifm-color-primary) !important;
 }
 
+/* Navbar icons (color toggle, hamburger) — white on dark navbar */
+[data-theme='light'] .navbar .clean-btn {
+  color: #ffffff;
+}
+
 /* Bigger site title in navbar */
 .navbar__title {
   font-size: 1.25rem;
@@ -79,4 +84,72 @@ blockquote p {
 
 [data-theme='dark'] .footer--dark {
   --ifm-footer-background-color: #111111;
+}
+
+/* Reading progress bar */
+#reading-progress {
+  position: fixed;
+  top: var(--ifm-navbar-height, 60px);
+  left: 0;
+  height: 3px;
+  background: var(--ifm-color-primary);
+  z-index: 999;
+  width: 0;
+  pointer-events: none;
+}
+
+/* Mobile table of contents — sticky below navbar */
+.mobile-toc {
+  position: sticky;
+  top: var(--ifm-navbar-height, 60px);
+  z-index: 100;
+  border: 1px solid rgba(128, 0, 255, 0.3);
+  border-radius: 0 0 6px 6px;
+  border-top: none;
+  padding: 0.5rem 1rem;
+  margin: 0 -1rem 1.5rem;
+  background: #f3ecfc;
+}
+
+[data-theme='dark'] .mobile-toc {
+  border-color: rgba(179, 102, 255, 0.3);
+  background: #1e1428;
+}
+
+.mobile-toc summary {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 0.25rem 0;
+}
+
+.mobile-toc ul {
+  margin: 0.5rem 0 0.25rem;
+  padding-left: 1.25rem;
+}
+
+.mobile-toc li {
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+}
+
+.mobile-toc ul ul {
+  margin-top: 0.3rem;
+  padding-left: 1rem;
+}
+
+/* Hide on desktop where the sidebar TOC is visible */
+@media (min-width: 997px) {
+  .mobile-toc {
+    display: none;
+  }
+}
+
+/* Sidebar TOC: fixed width, let main content squeeze instead */
+@media (min-width: 997px) {
+  .col:has(> [class*='tableOfContents']) {
+    flex-shrink: 0;
+    flex-basis: 250px !important;
+    max-width: 250px !important;
+  }
 }
