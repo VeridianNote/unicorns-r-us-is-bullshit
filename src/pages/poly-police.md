@@ -1,4 +1,4 @@
-# You Just Got Cross-Examined by the Poly Police
+# The Poly Police Just Showed Up
 
 ---
 
@@ -90,7 +90,7 @@ But here's the thing: **the questions actually matter.** So let's cut through th
 
 Here's where I have to be honest, because if this page just teaches people to dismiss every uncomfortable question, I've built a deflection tool, not a resource. And then I'm no better than what I'm criticizing.
 
-The questions the poly police ask? Most of them are legitimate. They deserve real answers. Here are some of the big ones, answered plainly. 
+The questions the poly police ask? Most of them are legitimate. They deserve real answers. Here are some of the big ones, answered plainly.
 If any of these surprise you, you have some homework to do.
 
 ### "Does the existing couple have more power?"
