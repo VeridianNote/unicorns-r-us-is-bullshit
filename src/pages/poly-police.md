@@ -201,6 +201,8 @@ The people showing up to ask questions, share experiences, and learn? Those are 
 
 Please give them that chance. Give them room to be clumsy, to ask the wrong questions, to use the wrong words, and to grow into something better than where they started. That's what community is supposed to do.
 
+And if you're on the other side of this -- if you're the one who's exhausted from defending your triad for the hundredth time -- I hear you too. That exhaustion is just as real. But watch what it does to you over time. When you've been interrogated enough, it's easy to start treating every question as an attack, every concern as bad faith, every piece of critical feedback as just another round of poly policing. Some of it is. But not all of it. And if you stop being able to tell the difference, you lose the ability to hear the people who are genuinely trying to help you think -- including the ones who might see something you can't see from the inside. Being defensive about your relationship is understandable. Being unreachable is a problem.
+
 ---
 
 ## The bottom line
