@@ -113,7 +113,7 @@ function showToast(message) {
   }, 2200);
 }
 
-const confettiEmoji = ['\uD83E\uDD84', '\uD83D\uDC09', '\u2764\uFE0F', '\uD83E\uDD84', '\uD83E\uDD18', '\uD83D\uDC09', '\uD83C\uDF89', '\uD83D\uDE4C'];
+const confettiEmoji = ['\uD83C\uDF89', '\u2764\uFE0F', '\uD83D\uDE4C', '\u2728', '\uD83D\uDC9C', '\uD83C\uDF1F', '\uD83D\uDE0D', '\uD83D\uDCAB', '\uD83E\uDD84', '\uD83D\uDC09', '\uD83D\uDC9C'];
 
 function spawnConfetti(container) {
   const delays = confettiEmoji.map((_, i) => i * (50 + Math.random() * 80));
