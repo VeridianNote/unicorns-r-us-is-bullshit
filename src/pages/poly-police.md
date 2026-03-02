@@ -1,3 +1,8 @@
+---
+title: The Poly Police Just Showed Up
+description: When someone polices your polyamorous relationship with "just asking questions" — a guide for both sides of the conversation about unicorn hunting and couple privilege.
+---
+
 # The Poly Police Just Showed Up
 
 ---

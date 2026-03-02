@@ -1,5 +1,6 @@
 ---
 title: Unicorns R Us Is Bullshit
+description: A detailed, evidence-based rebuttal of the Unicorns-R-Us website and how it gets weaponized against polyamorous couples, triads, and unicorns in online communities.
 ---
 
 # Why the Internet's Favorite "Unicorn Hunter" Website Is&nbsp;Bullshit

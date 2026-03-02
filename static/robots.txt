@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unicorns-r-us-is-bullshit.com/sitemap.xml
