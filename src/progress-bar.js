@@ -48,7 +48,7 @@ if (typeof window !== 'undefined') {
     const shareLink = e.target.closest('.toc-share-link');
     if (shareLink) {
       e.preventDefault();
-      navigator.clipboard.writeText(window.location.href).then(() => {
+      navigator.clipboard.writeText(window.location.origin + window.location.pathname).then(() => {
         const original = shareLink.innerHTML;
         shareLink.innerHTML = '\u2714 Link copied!';
         shareLink.classList.add('toc-share-link--done');
@@ -165,7 +165,7 @@ function createShareButton() {
   btn.addEventListener('click', () => {
     if (btn.classList.contains('share-btn--done')) return;
 
-    navigator.clipboard.writeText(window.location.href).then(() => {
+    navigator.clipboard.writeText(window.location.origin + window.location.pathname).then(() => {
       btn.classList.add('share-btn--done');
       btn.querySelector('.share-btn__icon').textContent = '\u2714';
       btn.querySelector('.share-btn__text').textContent = 'Link copied!';
