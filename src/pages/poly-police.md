@@ -112,7 +112,9 @@ In a triad, that means the existing couple needs to be self-aware enough to reco
 
 If they're doing that? The power imbalance is being managed. If they're not? That's a problem. But it's a behavior problem, not a structure problem. The existence of a pre-existing couple is not itself the issue. How they wield that position is.
 
-And it's worth noting: the couple doesn't always hold the most power. The internet assumes the new person is always the vulnerable one, but real life is more complicated than that. I've dated someone who earned roughly double our household income on their own. That single fact shifted the entire dynamic -- confidence, options, leverage, the ability to walk away without financial consequence. The power wasn't stacked against them. If anything, they held cards we didn't. Power comes from a lot of places: money, experience, emotional stability, social connections, alternatives. Assuming the couple always has the upper hand is just as lazy as assuming they never do. Look at the actual situation, not the default narrative.
+And it's worth noting: the couple doesn't always hold the most power. The internet assumes the new person is always the vulnerable one, but real life is more complicated than that. I've dated someone who earned roughly double our household income on their own. That single fact shifted the entire dynamic -- confidence, options, leverage, the ability to walk away without financial consequence. The power wasn't stacked against them. If anything, they held cards we didn't. Power comes from a lot of places: money, experience, emotional stability, social connections, alternatives. Assuming the couple always has the upper hand is just as lazy as assuming they never do. 
+
+> **Look at the actual situation, not the default narrative.**
 
 ### "Can the new person date just one of you?"
 
@@ -152,6 +154,8 @@ The control version looks like: "You can't date anyone else because we said so, 
 
 Structure and control are not the same thing. A closed relationship chosen freely by all parties is a structure. A closed relationship enforced by one party's anxiety is control. Same shape. Completely different ethics.
 
+Why is it that when a monogamous couple says "we only want each other," that's romance -- but when a triad says the same thing, suddenly it's a red flag? Same choice. Completely different assumption. That's not insight. Here's the thing -- if someone looks at three people choosing each other and their first instinct is "that's about control," that's projection. They're mapping their own fears or bad experiences onto your relationship and calling it analysis. That's their baggage, not your red flag. Let's call it what it is.
+
 There's something else here too: the control version doesn't just point to a relationship problem. It points to an individual problem. People who need to monitor, restrict, and enforce compliance in their relationships are usually carrying something that no relationship structure can fix -- open, closed, mono, or otherwise. If someone can't feel secure without controlling their partner's behavior, adding a new person to the mix won't solve that. It'll amplify it. That's not a red flag about triads. That's a red flag about a person who isn't ready for any relationship that requires trust.
 
 ---
@@ -168,7 +172,7 @@ If your answer changes nothing -- if the next question was clearly loaded before
 
 **You don't owe infinite patience to someone who isn't listening.** There's a difference between "I should engage with hard questions" and "I should keep answering the same question in different forms until this person gets the answer they want." The first is maturity. The second is a trap.
 
-**A useful response when you recognize the pattern:** "I've answered this a few different ways now. I'm happy to keep talking if you're engaging with what I'm saying, but if we're going in circles, I think we've reached the end of what this conversation can do." That's not defensive. That's a boundary. And anyone who claims to value autonomy should recognize one.
+**A useful response when you recognize the pattern:** "I've answered this a few different ways now. I'm happy to keep talking if you're engaging with what I'm saying, but if we're going in circles, I think we've reached the end of what this conversation can do." That's not defensive. That's a boundary. And anyone who claims to value autonomy -- as the poly police love to preach on their subreddits -- should recognize one.
 
 **Don't take the bait of the final comparison.** When someone casually drops "well, in MY relationship we do X" as a way of implying their structure is more ethical than yours, the temptation is to defend your structure against theirs. Don't. You're not in a structure competition. "That sounds like it works well for you" is a complete sentence. You don't need to justify why your relationship looks different from theirs.
 
