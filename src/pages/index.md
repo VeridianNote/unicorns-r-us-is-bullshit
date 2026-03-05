@@ -321,9 +321,9 @@ End the bullshit.
 
 ---
 
-*This page is part of a larger project. Resources, community discussion, and practical guides.*
+*This page is part of a larger project. Practical guides, stories, and resources live on our sister site, [Poly Convergence](https://polyconvergence.com).*
 
-*Have a story, correction, or perspective to share? [Contact info placeholder]*
+*Have a story, correction, or perspective to share? Join the discussion at [r/PolyConvergence](https://www.reddit.com/r/PolyConvergence).*
 
 ### Related Reading
 
