@@ -1,0 +1,90 @@
+.wrapper {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 4px;
+  max-width: 100%;
+}
+
+.chartLink {
+  display: block;
+  line-height: 0;
+}
+
+.chart {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  transition: filter 0.4s ease;
+}
+
+/* Dim the chart when stamp is covering it */
+.container:not(.revealed) .chart {
+  filter: brightness(0.55) blur(1px);
+}
+
+.container.revealed .chart {
+  filter: none;
+}
+
+/* The stamp overlay */
+.stamp {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 70%;
+  max-width: 500px;
+  transform: translate(-50%, -50%) rotate(-8deg);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  pointer-events: none;
+  filter: drop-shadow(4px 6px 12px rgba(0, 0, 0, 0.6));
+}
+
+/* Desktop hover: lift and fade the stamp */
+@media (hover: hover) {
+  .container:hover .stamp {
+    opacity: 0.15;
+    transform: translate(-50%, -55%) rotate(-8deg) scale(1.05);
+  }
+
+  .container:hover .chart {
+    filter: none;
+  }
+}
+
+/* Tap-toggled revealed state (works on both mobile and desktop) */
+.container.revealed .stamp {
+  opacity: 0;
+  transform: translate(-50%, -60%) rotate(-8deg) scale(1.1);
+  pointer-events: none;
+}
+
+/* Hint text */
+.hint {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  font-size: 0.8rem;
+  padding: 4px 14px;
+  border-radius: 20px;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+/* Hide the hint on desktop when hovering */
+@media (hover: hover) {
+  .container:hover .hint {
+    opacity: 0;
+  }
+}

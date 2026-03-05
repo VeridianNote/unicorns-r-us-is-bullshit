@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /img/hotbibabe-flowchart-large*
 
 Sitemap: https://unicorns-r-us-is-bullshit.com/sitemap.xml

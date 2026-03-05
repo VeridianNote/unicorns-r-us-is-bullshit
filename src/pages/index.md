@@ -5,6 +5,8 @@ description: A detailed, evidence-based rebuttal of the Unicorns-R-Us website an
 
 # Why the Internet's Favorite "Unicorn Hunter" Website Is&nbsp;Bullshit
 
+![Unicorns R Us Is Bullshit](/img/og-image.jpg)
+
 ---
 
 ## Someone just linked you that site, didn't they?
@@ -140,17 +142,11 @@ This is what gets linked as "advice." This is the resource the internet hands to
 
 That's Bullshit.
 
-<div style={{textAlign: 'center'}} className="img-caption">
+import FlowchartReveal from '@site/src/components/FlowchartReveal';
 
-<a href="/img/hotbibabe-flowchart-large.webp" target="_blank">
+<FlowchartReveal />
 
-![Flowchart from unicorns-r-us.com by Franklin Veaux](/img/hotbibabe-flowchart-large.webp)
-
-</a>
-
-*Flowchart from unicorns-r-us.com by Franklin Veaux (click to open full size)*
-
-</div>
+*Flowchart from unicorns-r-us.com by Franklin Veaux*
 
 ## But here's what they're not entirely wrong about
 
@@ -217,7 +213,7 @@ Consent is necessary, but it's not sufficient. A person can technically "agree" 
 
 Quick example: "Any of us can say 'I need to slow down' and we'll talk about it without anyone being punished" is an agreement. "If you have a problem with how things are going, maybe this isn't for you" is a threat with a calm voice. Same conversation with completely different power dynamics.
 
-A practical guide to recognizing the difference -- what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads -- is in the works. [Coming soon]
+A practical guide to recognizing the difference -- what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads -- is on our sister site. [Empowering vs. controlling agreements →](https://polyconvergence.com/wiki/foundational-concepts/empowering-vs-controlling-agreements)
 
 ### "Unicorns" are people, not pedestals
 
@@ -294,18 +290,18 @@ This page exists to widen that space. Not to defend bad behavior. Not to pretend
 If you want to go deeper, here's where to start depending on where you are right now:
 
 **You're a couple exploring this for the first time.**
-You're not broken for wanting this. But wanting it isn't enough. There are real skills involved: how to communicate transparently, how to check your own assumptions, how to recognize when your "boundaries" are actually just control in a nicer outfit. There's a difference between approaching this thoughtfully and approaching it perfectly. Nobody gets it perfect. The goal is to be honest, fair, and willing to course-correct when you get it wrong. [Resource guide coming soon]
+You're not broken for wanting this. But wanting it isn't enough. There are real skills involved: how to communicate transparently, how to check your own assumptions, how to recognize when your "boundaries" are actually just control in a nicer outfit. There's a difference between approaching this thoughtfully and approaching it perfectly. Nobody gets it perfect. The goal is to be honest, fair, and willing to course-correct when you get it wrong. [Guide for couples →](https://polyconvergence.com/wiki/foundational-concepts/guide-for-couples)
 
 **You're already in a triad and tired of defending it.**
-Your relationship is not a debate topic. You don't owe strangers a justification for how you love. At the same time, the discourse isn't going away, and knowing how to navigate it without letting it get under your skin is a skill worth building. You're not alone in this, even when it feels like the entire internet disagrees with your existence. [Community and resources coming soon]
+Your relationship is not a debate topic. You don't owe strangers a justification for how you love. At the same time, the discourse isn't going away, and knowing how to handle it without letting it get under your skin is a skill worth building. You're not alone in this, even when it feels like the entire internet disagrees with your existence. [Community stories →](https://polyconvergence.com/stories) · [r/PolyConvergence →](https://www.reddit.com/r/PolyConvergence)
 
 **You're someone dating a couple, or thinking about it.**
-You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for -- the green flags, the yellow flags, the red flags -- gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit coming soon]
+You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for -- the green flags, the yellow flags, the red flags -- gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit →](https://polyconvergence.com/wiki/foundational-concepts/evaluation-toolkit)
 
 **You're poly-minded but life pushed you into functional monogamy, and you're trying to find your way back.**
-Maybe stress, logistics, or circumstance closed things down for a while. Wanting to re-open doesn't make you a unicorn hunter, and it doesn't mean you're starting from scratch. But it does mean the landscape may have shifted since you were last navigating it, and the online spaces you return to might not feel as welcoming as they used to. You're not alone in that either. [Resources coming soon]
+Maybe stress, logistics, or circumstance closed things down for a while. Wanting to re-open doesn't make you a unicorn hunter, and it doesn't mean you're starting from scratch. But it does mean the landscape may have shifted since you were last navigating it, and the online spaces you return to might not feel as welcoming as they used to. You're not alone in that either. [Resources →](https://polyconvergence.com/wiki/foundational-concepts/re-entering-nonmonogamy)
 
-These resources are being built right now -- a space for practical guides, community discussion, and the kind of honest education that the internet's loudest voices tend to skip over. 
+These resources live on our sister site, [Poly Convergence](https://polyconvergence.com) -- a community-built space for practical guides, honest discussion, and the kind of education that the internet's loudest voices tend to skip over.
 
 ---
 
