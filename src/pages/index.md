@@ -53,7 +53,7 @@ On another page, the site goes further, claiming that "in all recorded human his
 
 A couple who wants a closed triad but doesn't demand forced symmetry, doesn't impose one-sided rules, and genuinely respects their new partner's autonomy? They don't fit the site's own definition. But they'll read it and see themselves condemned anyway, because the site makes no real effort to separate "rigid, controlling couple with a fantasy checklist" from "two people who love each other and want to find someone who fits into their life."
 
-And that collapse -- where very different things get jammed under one dirty label -- is the engine of the entire problem.
+And that collapse, where very different things get jammed under one dirty label, is the engine of the entire problem.
 
 Because when the internet says "unicorn hunter," it could mean:
 
@@ -67,7 +67,7 @@ This isn't a minor oversight. It's the foundation crack that the whole site is b
 
 The word "unicorn" started in 1970s swinger communities.[^1] In that world, a "unicorn" was a single bisexual woman willing to join a couple for casual, recreational sex. The expectations were openly sexual, openly temporary, and openly recreational. Nobody was pretending it was a love story. The term described rarity, not exploitation.
 
-That term migrated into polyamory forums in the late '90s and 2000s, and it brought its baggage with it -- but not its context. In poly spaces, "unicorn" picked up ethical weight it was never designed to carry. Now the same word covers a one-night swinger hookup, a committed three-person romantic partnership, and everything in between. And people argue about the ethics as if those are the same situation.
+That term migrated into polyamory forums in the late '90s and 2000s, and it brought its baggage with it, but not its context. In poly spaces, "unicorn" picked up ethical weight it was never designed to carry. Now the same word covers a one-night swinger hookup, a committed three-person romantic partnership, and everything in between. And people argue about the ethics as if those are the same situation.
 
 They're not. A swinging couple looking for a casual third for a Saturday night has completely different intentions, expectations, and risks than a couple looking to build a life with someone. Lumping them together doesn't protect anyone. It just makes it impossible to talk about either one clearly. And Unicorns-R-Us, for all its thousands of words, never once makes this distinction. It treats "couple seeking a third" as one monolithic thing and then critiques the worst version as if it represents all of them.
 
@@ -90,7 +90,7 @@ One of us would go out while the other sat at home wondering how it was going, f
 Lesson learned. 
 When we started exploring together instead, as a group, things clicked. We could share stories, ask questions, and figure out three-way compatibility in real time instead of playing a strange relay race. After a handful of dates together, one-on-one time started happening naturally, not because a rule said it should, but because comfort and curiosity made it feel right. That's when each pair found their own rhythm, shared their own hobbies, explored their own connection. And the partner who wasn't there? They felt relieved, not threatened, because it took pressure off them to be everything to everyone. The non-participating partner was at ease knowing the other two were content in each other's good company. 
 
-That's how you build compersion -- genuine happiness at seeing your partners happy spending time together.
+That's how you build compersion: genuine happiness at seeing your partners happy spending time together.
 
 Does this mean every couple should demand package-deal-or-nothing from day one? No way. 
 One-on-one relationships should absolutely have room to develop on their own. 
@@ -126,7 +126,7 @@ But look at what that framing actually does: it assumes the new partner is naive
 
 Telling someone "you don't realize you're being exploited" when they're making an informed, autonomous choice is not protection. It's patronizing. And the irony is hard to miss: a site that claims to care about autonomy and agency is, in practice, telling a whole category of people that their choices don't count because they must not understand what they're agreeing to.
 
-People who date couples are just people. They have their own baggage, their own boundaries, their own capacity for good and bad judgment -- and yes, their own capacity to be the difficult one in the relationship. The internet's fixation on "protecting the unicorn" sometimes forgets that the person joining a couple is a full human being with agency, not a baby deer wandering into traffic.
+People who date couples are just people. They have their own baggage, their own boundaries, their own capacity for good and bad judgment. And yes, their own capacity to be the difficult one in the relationship. The internet's fixation on "protecting the unicorn" sometimes forgets that the person joining a couple is a full human being with agency, not a baby deer wandering into traffic.
 
 ### And then there's the flowchart
 
@@ -134,7 +134,7 @@ This is the "Flowchart for Couples Looking for a Third," hosted on unicorns-r-us
 
 The left side reduces finding a partner to a checklist: Female? Hot enough? Bisexual? Single? Willing to sleep with both of us? Will she agree not to sleep with anyone else? Then: SCORE!!!!! There is no mention of compatibility, personality, shared values, emotional connection, or anything that resembles meeting an actual human being. The entire "finding" process treats the new person as a set of qualifying criteria to be checked off.
 
-The right side is worse. Every real relationship challenge that any triad might face -- jealousy, uneven connection, one person wanting more independence, someone feeling like a babysitter -- funnels through one of two outcomes: "Reassert That The Original Couple Is Primary" or "Dump Her." Every single path. There is no branch that leads to "talk about it." No branch that leads to "adjust and grow together." No branch that leads to "this is normal and you can work through it." The only options are: maintain the status quo at all costs, or throw the person away.
+The right side is worse. Every real relationship challenge that any triad might face (jealousy, uneven connection, one person wanting more independence, someone feeling like a babysitter) funnels through one of two outcomes: "Reassert That The Original Couple Is Primary" or "Dump Her." Every single path. There is no branch that leads to "talk about it." No branch that leads to "adjust and grow together." No branch that leads to "this is normal and you can work through it." The only options are: maintain the status quo at all costs, or throw the person away.
 
 And at the very bottom, if somehow none of those problems exist? "Then What's the Problem?" As if the only acceptable version of this relationship is one where the new person has no needs, no friction, no humanity at all.
 
@@ -165,7 +165,7 @@ Some of these couples will never learn. They'll keep posting the same clueless p
 **But some of them will.**
 They'll get feedback, do the reading, have the hard conversations, and come back as genuinely thoughtful people who treat their partners well. Starting out clueless is not a moral failing. Staying clueless after people try to help you? That's a different story. The question isn't "did you know everything on day one?" The question is **"are you willing to learn?"**
 
-And then there's a group the internet barely acknowledges at all: the accidental throuples. These are people who were never looking for polyamory. They weren't on dating apps as a couple. They weren't reading books about ethical non-monogamy. They were in a monogamous relationship, and then someone came into their lives -- a friend, a coworker, someone they met at a party -- and feelings happened that nobody planned for. So they figured it out on the fly, learned the terminology after the fact, and built something real without ever fitting the "hunting" narrative.
+And then there's a group the internet barely acknowledges at all: the accidental throuples. These are people who were never looking for polyamory. They weren't on dating apps as a couple. They weren't reading books about ethical non-monogamy. They were in a monogamous relationship, and then someone came into their lives (a friend, a coworker, someone they met at a party) and feelings happened that nobody planned for. So they figured it out on the fly, learned the terminology after the fact, and built something real without ever fitting the "hunting" narrative.
 
 This isn't rare. In one poll from a throuple community group, roughly 70% said their triad formed accidentally. Many of the people in polyfidelitous relationships weren't part of the poly community before their triad started, and most never will be. They don't need to find more connections. They don't need the forums or the terminology debates. They're just living their lives. The only time they overlap with the broader poly world is when they stumble into a subreddit looking for advice and get handed a link to Unicorns-R-Us as if it describes them. **It doesn't.**
 
@@ -177,7 +177,7 @@ The profiles and posts from the first two groups are all part of the greater uni
 
 I've personally seen these patterns across dating apps, Reddit, and real conversations. The honest truth is that it's impossible to put a reliable number on how many couples are doing this harmfully versus thoughtfully. It depends on where you look and how curated that space is. But there are clearly enough people fitting the harmful stereotype to create a pattern that others notice, warn about, and build entire websites around. Then again, there are also enough people caught in the crossfire to inspire this one. 
 
-So when someone in r/polyamory or elsewhere reacts strongly to a couple's post, it's not always because they're a gatekeeper looking for someone to shame. Sometimes it's because they've watched this play out badly, over and over, and they're tired. Sometimes they've been the person who got treated like a disposable role. That exhaustion is real, and it deserves respect. But so does the other side. The couples who are genuinely trying, the people in happy triads, the partners who chose this life with open eyes -- they deserve better than being sorted into a stereotype before anyone bothers to ask how they actually treat people.
+So when someone in r/polyamory or elsewhere reacts strongly to a couple's post, it's not always because they're a gatekeeper looking for someone to shame. Sometimes it's because they've watched this play out badly, over and over, and they're tired. Sometimes they've been the person who got treated like a disposable role. That exhaustion is real, and it deserves respect. But so does the other side. The couples who are genuinely trying, the people in happy triads, the partners who chose this life with open eyes. They deserve better than being sorted into a stereotype before anyone bothers to ask how they actually treat people.
 
 > The warning culture formed for a reason. Then it overshot.
 
@@ -213,7 +213,7 @@ Consent is necessary, but it's not sufficient. A person can technically "agree" 
 
 Quick example: "Any of us can say 'I need to slow down' and we'll talk about it without anyone being punished" is an agreement. "If you have a problem with how things are going, maybe this isn't for you" is a threat with a calm voice. Same conversation with completely different power dynamics.
 
-A practical guide to recognizing the difference -- what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads -- is on our sister site. [Empowering vs. controlling agreements →](https://polyconvergence.com/wiki/foundational-concepts/empowering-vs-controlling-agreements)
+Our sister site has a practical guide to recognizing the difference: what empowering agreements look like versus controlling ones, across the situations that actually come up in real triads. [Empowering vs. controlling agreements →](https://polyconvergence.com/wiki/foundational-concepts/empowering-vs-controlling-agreements)
 
 ### "Unicorns" are people, not pedestals
 
@@ -240,7 +240,7 @@ The question is never "what role are you in?" The question is "how are you treat
 
 Part of the reason these conversations go sideways so fast is that the words themselves are a mess. The same term means different things to different people in different spaces, and instead of recognizing that, people argue past each other while assuming everyone shares their definition.
 
-Take "unicorn". Its origins as swinger slang[^1] (and its older cousin 'hot bi babe'[^2]) are covered earlier -- but what matters here is that the same word now lives in at least three different worlds at once:
+Take "unicorn". Its origins as swinger slang[^1] (and its older cousin 'hot bi babe'[^2]) are covered earlier, but what matters here is that the same word now lives in at least three different worlds at once:
 
 - **Self-identification.** Many bisexual women happily call themselves unicorns. For some, it's a way of reclaiming a label and celebrating a part of their sexuality they were once made to feel ashamed of.[^3] For others, it's just practical shorthand on dating apps.
 - **Community shorthand for a harmful dynamic.** In mainstream poly spaces, calling someone a "unicorn" is often a way of saying they're being treated as a role, not a person. It implies the couple is objectifying them, even if that's not what's happening.[^4]
@@ -248,9 +248,9 @@ Take "unicorn". Its origins as swinger slang[^1] (and its older cousin 'hot bi b
 
 There's one more problem with how the term gets used, and it's one the original site never addresses: the entire "unicorn" framework is built around one specific gender scenario.
 
-Unicorns-R-Us assumes, from start to finish, that the dynamic involves a heterosexual couple -- man and woman -- seeking a bisexual woman. That's the only scenario it considers. It doesn't address same-sex couples looking for a partner. It doesn't address couples seeking a bisexual man (sometimes called a "dragon" in swinger and ENM spaces, though the term is newer and far less established[^7]). It doesn't address non-binary people in any role. It doesn't address the basic reality that "the person joining a couple" can be anyone of any gender with any orientation.
+Unicorns-R-Us assumes, from start to finish, that the dynamic involves a heterosexual couple (man and woman) seeking a bisexual woman. That's the only scenario it considers. It doesn't address same-sex couples looking for a partner. It doesn't address couples seeking a bisexual man (sometimes called a "dragon" in swinger and ENM spaces, though the term is newer and far less established[^7]). It doesn't address non-binary people in any role. It doesn't address the basic reality that "the person joining a couple" can be anyone of any gender with any orientation.
 
-This matters because it exposes the site's actual scope: it's not a universal guide to multi-person relationship ethics. It's a guide to one specific gendered configuration, presented as if it covers everything. The ethical concerns it raises -- autonomy, consent, power dynamics, disposable treatment -- are genuinely gender-neutral. They apply to any situation where one person is joining an established pair. But the site's framing isn't gender-neutral at all. And when that narrow lens gets applied to every couple seeking a partner, regardless of who they are or who they're looking for, it warps the conversation even further.
+This matters because it exposes the site's actual scope: it's not a universal guide to multi-person relationship ethics. It's a guide to one specific gendered configuration, presented as if it covers everything. The ethical concerns it raises (autonomy, consent, power dynamics, disposable treatment) are genuinely gender-neutral. They apply to any situation where one person is joining an established pair. But the site's framing isn't gender-neutral at all. And when that narrow lens gets applied to every couple seeking a partner, regardless of who they are or who they're looking for, it warps the conversation even further.
 
 "Third" implies hierarchy even when none is intended. It positions someone as an addition to something that already exists rather than an equal participant in something new.
 
@@ -296,12 +296,12 @@ You're not broken for wanting this. But wanting it isn't enough. There are real 
 Your relationship is not a debate topic. You don't owe strangers a justification for how you love. At the same time, the discourse isn't going away, and knowing how to handle it without letting it get under your skin is a skill worth building. You're not alone in this, even when it feels like the entire internet disagrees with your existence. [Community stories →](https://polyconvergence.com/stories) · [r/PolyConvergence →](https://www.reddit.com/r/PolyConvergence)
 
 **You're someone dating a couple, or thinking about it.**
-You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for -- the green flags, the yellow flags, the red flags -- gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit →](https://polyconvergence.com/wiki/foundational-concepts/evaluation-toolkit)
+You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for (the green flags, the yellow flags, the red flags) gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit →](https://polyconvergence.com/wiki/foundational-concepts/evaluation-toolkit)
 
 **You're poly-minded but life pushed you into functional monogamy, and you're trying to find your way back.**
 Maybe stress, logistics, or circumstance closed things down for a while. Wanting to re-open doesn't make you a unicorn hunter, and it doesn't mean you're starting from scratch. But it does mean the landscape may have shifted since you were last navigating it, and the online spaces you return to might not feel as welcoming as they used to. You're not alone in that either. [Resources →](https://polyconvergence.com/wiki/foundational-concepts/re-entering-nonmonogamy)
 
-These resources live on our sister site, [Poly Convergence](https://polyconvergence.com) -- a community-built space for practical guides, honest discussion, and the kind of education that the internet's loudest voices tend to skip over.
+These resources live on our sister site, [Poly Convergence](https://polyconvergence.com), a community-built space for practical guides, honest discussion, and the kind of education that the internet's loudest voices tend to skip over.
 
 ---
 
