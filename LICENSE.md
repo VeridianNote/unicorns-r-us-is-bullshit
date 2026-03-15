@@ -1,40 +1,55 @@
 # License
 
-This project uses a dual license:
+This project contains three categories of work, each under different terms.
 
-## Content (text, images, page content)
+---
 
-All site content — including text, images, and media in `src/pages/` and `static/img/` — is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+## Code · MIT License
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+All source code (HTML templates, CSS, JavaScript, build scripts, and configuration
+files) is licensed under the MIT License.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit and indicate if changes were made
-- **NonCommercial** — You may not use the material for commercial purposes
-- **ShareAlike** — If you remix or build upon the material, you must distribute your contributions under the same license
+Copyright (c) 2025 The Site Contributors
 
-## Code (configuration, CSS, workflows)
-
-All code — including `docusaurus.config.js`, `src/css/`, `.github/workflows/`, and `package.json` — is licensed under the MIT License:
-
-MIT License — Copyright (c) 2026
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to the
+following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Written Content · CC BY-NC-SA 4.0
+
+All written content -- articles, guides, wiki pages, and other text -- is licensed
+under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to share and adapt the written content for non-commercial purposes,
+provided you give appropriate credit and distribute any derivative work under the
+same license.
+
+---
+
+## Artwork & Branding · All Rights Reserved
+
+All logos, illustrations, icons, and visual branding are the property of their
+respective creator and are used on this site with permission. These works are
+**not** covered by the open licenses above.
+
+No part of the artwork or branding may be reproduced, distributed, or used without
+explicit written permission from the copyright holder.
+
+For licensing inquiries regarding artwork, contact the site maintainers through
+the project's GitHub repository.

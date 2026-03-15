@@ -78,7 +78,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.`,
+        copyright: `Content: CC BY-NC-SA 4.0 · Code: MIT · Artwork: All rights reserved`,
       },
     }),
 };
