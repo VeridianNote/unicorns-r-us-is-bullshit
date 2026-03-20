@@ -1,6 +1,7 @@
 ---
 title: Unicorns R Us Is Bullshit
 description: A detailed, evidence-based rebuttal of the Unicorns-R-Us website and how it gets weaponized against polyamorous couples, triads, and unicorns in online communities.
+keywords: [unicorn hunting, polyamory, unicorns-r-us rebuttal, ethical non-monogamy, triad relationships, couple privilege]
 ---
 
 # Why the Internet's Favorite "Unicorn Hunter" Website Is&nbsp;Bullshit

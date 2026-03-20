@@ -46,6 +46,17 @@ const config = {
     {tagName: 'link', attributes: {rel: 'shortcut icon', href: '/img/favicon.ico'}},
     {tagName: 'link', attributes: {rel: 'apple-touch-icon', sizes: '180x180', href: '/img/apple-touch-icon.png'}},
     {tagName: 'link', attributes: {rel: 'manifest', href: '/img/site.webmanifest'}},
+    {
+      tagName: 'script',
+      attributes: {type: 'application/ld+json'},
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Unicorns R Us Is Bullshit',
+        url: 'https://unicorns-r-us-is-bullshit.com',
+        description: 'A detailed, evidence-based rebuttal of the Unicorns-R-Us website and how it gets weaponized against polyamorous couples, triads, and unicorns in online communities.',
+      }),
+    },
   ],
 
   themeConfig:
