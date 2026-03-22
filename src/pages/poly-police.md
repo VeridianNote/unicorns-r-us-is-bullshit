@@ -67,7 +67,7 @@ That's bullshit. Let's take it apart.
 
 This pattern is effective because it hijacks something genuine: the real questions that real people should be asking about power dynamics, consent, and fairness in multi-person relationships.
 
-Those questions matter. They should be asked. Anyone exploring a triad, whether as a couple or as the person joining one, benefits from thinking hard about autonomy, about who holds structural power, about whether agreements are truly negotiable. This page is not going to pretend otherwise.
+Those questions matter. They should be asked. Anyone exploring a triad, whether as a couple or as the person joining one, benefits from thinking hard about agency, about who holds structural power, about whether agreements are truly negotiable. This page is not going to pretend otherwise.
 
 But there's a difference between asking those questions because you want someone to think more carefully and asking them because you want to demonstrate that they can't think carefully enough.
 
