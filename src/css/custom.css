@@ -59,6 +59,23 @@ h1[id], h2[id], h3[id], h4[id] {
   color: #ffffff !important;
 }
 
+/* Section headings — add color for visual rhythm */
+article h2 {
+  color: #7b1fa2;
+}
+
+article h3 {
+  color: #9c27b0;
+}
+
+[data-theme='dark'] article h2 {
+  color: #ce93d8;
+}
+
+[data-theme='dark'] article h3 {
+  color: #ab47bc;
+}
+
 blockquote {
   border-left: 4px solid var(--ifm-color-primary);
   padding: 1rem 1.5rem;
