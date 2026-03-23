@@ -315,8 +315,8 @@ Your relationship is not a debate topic. You don't owe strangers a justification
 **You're someone dating a couple, or thinking about it.**
 You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for (the green flags, the yellow flags, the red flags) gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit →](https://polyconvergence.com/wiki/foundational-concepts/evaluation-toolkit)
 
-**You're poly-minded but life pushed you into functional monogamy, and you're trying to find your way back.**
-Maybe stress, logistics, or circumstance closed things down for a while. Wanting to re-open doesn't make you a unicorn hunter, and it doesn't mean you're starting from scratch. But it does mean the landscape may have shifted since you were last navigating it, and the online spaces you return to might not feel as welcoming as they used to. You're not alone in that either. [Resources →](https://polyconvergence.com/wiki/foundational-concepts/re-entering-nonmonogamy)
+**You're ready to find your people and the dating landscape is... rough.**
+You know what you want. Now you need to actually find people who want it too. The apps are built for casual. The communities are built for open poly. And if you're looking for something committed — a triad, polyfidelity, poly convergence — the infrastructure barely exists yet. That's not your imagination. It's a real gap, and knowing what tools actually work (and which ones don't) saves you a lot of frustration. [Finding your people →](https://polyconvergence.com/wiki/foundational-concepts/finding-your-people)
 
 These resources live on our sister site, [Poly Convergence](https://polyconvergence.com), a community-built space for practical guides, honest discussion, and the kind of education that the internet's loudest voices tend to skip over.
 
