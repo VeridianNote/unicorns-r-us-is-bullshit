@@ -310,7 +310,7 @@ If you want to go deeper, here's where to start depending on where you are right
 You're not broken for wanting this. But wanting it isn't enough. There are real skills involved: how to communicate transparently, how to check your own assumptions, how to recognize when your "boundaries" are actually just control in a nicer outfit. There's a difference between approaching this thoughtfully and approaching it perfectly. Nobody gets it perfect. The goal is to be honest, fair, and willing to course-correct when you get it wrong. [Guide for couples →](https://polyconvergence.com/wiki/foundational-concepts/guide-for-couples)
 
 **You're already in a triad and tired of defending it.**
-Your relationship is not a debate topic. You don't owe strangers a justification for how you love. At the same time, the discourse isn't going away, and knowing how to handle it without letting it get under your skin is a skill worth building. You're not alone in this, even when it feels like the entire internet disagrees with your existence. [Community stories →](https://polyconvergence.com/stories) · [r/PolyConvergence →](https://www.reddit.com/r/PolyConvergence)
+Your relationship is not a debate topic. You don't owe strangers a justification for how you love. At the same time, the discourse isn't going away, and knowing how to handle it without letting it get under your skin is a skill worth building. You're not alone in this, even when it feels like the entire internet disagrees with your existence. [Community stories →](https://polyconvergence.com/stories)
 
 **You're someone dating a couple, or thinking about it.**
 You're a whole person with your own needs, your own boundaries, and your own capacity to evaluate what's working and what isn't. Nobody gets to tell you that your choices don't count because they assume you must be naive. That said, knowing what to look for (the green flags, the yellow flags, the red flags) gives you better tools than gut feeling alone. Trust yourself, but also educate yourself. [Evaluation toolkit →](https://polyconvergence.com/wiki/foundational-concepts/evaluation-toolkit)
@@ -340,7 +340,7 @@ End the bullshit.
 
 *This page is part of a larger project. Practical guides, stories, and resources live on our sister site, [Poly Convergence](https://polyconvergence.com).*
 
-*Have a story, correction, or perspective to share? Join the discussion at [r/PolyConvergence](https://www.reddit.com/r/PolyConvergence).*
+*Have a story, correction, or perspective to share? Visit [Poly Convergence](https://polyconvergence.com/contribute) to contribute.*
 
 ### Related Reading
 
